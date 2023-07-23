@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyBusinessCardApp</string>
+    <string name="user_name_text">Tal Shab</string>
+    <string name="title_text">BadAss Compose Developer</string>
+    <string name="phone_num_text">+972 - 00000000</string>
+    <string name="linkdin_text">linkedin.com/in/hire-me-tal-shabadash/</string>
+    <string name="email_text">conf@gmail.com</string>
 </resources>
